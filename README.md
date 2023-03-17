@@ -15,6 +15,12 @@
 - 기술 : Activity LifeCycle, ViewBinding, savedInstanceState
 
 ### 2. calculator
+- 계산기 앱
+- 기능 : 계산 기능 (+, -), clear 기능
+- 기술 : ConstaintLayout-Flow, xml에서 onClick
+
+### 3. stopWatch
 - 스탑워치 앱
-- 기능 : 카운트다운 및 스탑워치 기능, 기록 저장 기능
-- 기술 : ConstaintLayout, ProgressBar, AlertDialog, Thread, runOnUiThread, ToneGenerator, addView
+- 기능 : 카운트다운 및 스탑워치 기능, 기록 저장 기능, 카운트 다운 시 소리 출력
+- 기술 : timer, ConstaintLayout, ProgressBar, AlertDialog, Thread, runOnUiThread, ToneGenerator, addView
+
