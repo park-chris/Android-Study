@@ -24,3 +24,8 @@
 - 기능 : 카운트다운 및 스탑워치 기능, 기록 저장 기능, 카운트 다운 시 소리 출력
 - 기술 : timer, ConstaintLayout, ProgressBar, AlertDialog, Thread, runOnUiThread, ToneGenerator, addView
 
+<div width="100%">
+  <img src="https://user-images.githubusercontent.com/72954404/225825551-1fe58f80-8b3d-4af0-89f1-f45c16b11571.png" width="200px" align="left"/>
+  <img src="https://user-images.githubusercontent.com/72954404/225825557-e97dd7d7-eccd-46e8-a4b5-69c8d65ab029.png" width="200px" align="center"/>
+  <img src="https://user-images.githubusercontent.com/72954404/225825555-acd69540-25df-4ec9-ae15-1a1df0965eb0.png" width="200px" align="center" />
+</div>
