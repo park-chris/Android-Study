@@ -39,3 +39,8 @@
   <img src="https://user-images.githubusercontent.com/72954404/227891496-f6b63b56-b5d3-41b5-baa4-9fd238fd261c.png" width="200px" align="center"/>
   <img src="https://user-images.githubusercontent.com/72954404/227891163-d0c063b5-62f7-4e7d-b4fa-eab9638d19b3.png" width="200px" align="center" />
 </div>
+
+### 5. MusicPlayer
+- 간단한 음악 재생 앱
+- 기능 : 음원 재생, Notification으로 음원 컨트롤러 제공 
+- 기술 : MediaPlayer, Service, Notification, BroadcastReceiver
