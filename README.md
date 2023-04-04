@@ -44,3 +44,16 @@
 - 간단한 음악 재생 앱
 - 기능 : 음원 재생, Notification으로 음원 컨트롤러 제공 
 - 기술 : MediaPlayer, Service, Notification, BroadcastReceiver
+
+
+### 6. WebToon
+- 네이버 웹툰을 WebView로 보는 앱
+- 기능 : 웹툰 보기, 마지막으로 본 웹툰으로 이동, 탭 네임 변경
+- 기술 : WebView, ViewPager2, SharedPreference, ViewBinding, Interface, AlertDialog
+<div width="100%">
+  <img src="https://user-images.githubusercontent.com/72954404/229712102-22a79ba0-3c4b-404e-9a8c-78ef94426636.png" width="200px" align="left"/>
+  <img src="https://user-images.githubusercontent.com/72954404/229712288-a3ad930e-ee6a-4050-b243-8d85645bc509.png" width="200px" align="center"/>
+</div>
+
+
+
