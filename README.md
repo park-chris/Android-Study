@@ -57,3 +57,12 @@
 
 
 
+### 7. Recorder
+- 소리를 녹음하고 재생할 수 있는 앱
+- 기능 : 소리 녹음, 재생, 재생 멈춤
+- 기술 : CustomView, Canvas, Permission, Enum Class
+<div width="100%">
+  <img src="https://user-images.githubusercontent.com/72954404/230255782-787149fa-5b40-4c3f-9462-04a3192c65bf.png" width="200px" align="left"/>
+  <img src="https://user-images.githubusercontent.com/72954404/230255823-1b97297a-d187-47d2-b1d9-d53cce097dd0.png" width="200px" align="center"/>
+ </div>
+ 
