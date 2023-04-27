@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="default_notification_channel_id">fastcampus_chat_channel</string>
+</resources>
