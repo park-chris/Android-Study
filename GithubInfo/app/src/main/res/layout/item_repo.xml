@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/selectableItemBackground"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/repoNameTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Repository Name" />
+
+    <TextView
+        android:id="@+id/descriptionTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/repoNameTextView"
+        android:layout_marginTop="2dp"
+        tools:text="This is description"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageView
+        android:id="@+id/startCountImageView"
+        android:src="@drawable/round_star_outline_24"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/startCountTextView"
+        app:layout_constraintBottom_toBottomOf="@id/startCountTextView"
+        app:tint="@color/white"
+        android:layout_width="20dp"
+        android:layout_height="20dp" />
+
+    <TextView
+        android:id="@+id/startCountTextView"
+        app:layout_constraintTop_toBottomOf="@id/descriptionTextView"
+        app:layout_constraintStart_toEndOf="@id/startCountImageView"
+        tools:text="300"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/forkCountImageView"
+        android:src="@drawable/round_fork_right_24"
+        android:layout_marginStart="10dp"
+        app:layout_constraintStart_toEndOf="@id/startCountTextView"
+        app:layout_constraintTop_toTopOf="@id/forkCountTextView"
+        app:layout_constraintBottom_toBottomOf="@id/forkCountTextView"
+        android:layout_width="20dp"
+        app:tint="@color/white"
+        android:layout_height="20dp" />
+
+    <TextView
+        android:id="@+id/forkCountTextView"
+        app:layout_constraintTop_toBottomOf="@id/descriptionTextView"
+        app:layout_constraintStart_toEndOf="@id/forkCountImageView"
+        tools:text="300"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
