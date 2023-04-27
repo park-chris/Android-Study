@@ -66,3 +66,29 @@
   <img src="https://user-images.githubusercontent.com/72954404/230255823-1b97297a-d187-47d2-b1d9-d53cce097dd0.png" width="200px" align="center"/>
  </div>
  
+ 
+ 
+### 8. GithubInfo
+- Github API를 이용해서 Repository 및 사용자 조회
+- 기능 : 사용자 이름으로 사용자 조회, Repository 조회, WebView로 Repository로 바로 연결
+- 기술 : Retrofit, OkHttp, WebView, DiffUtil, ListAdapter, RecyclerView
+
+
+
+### 9. News
+- 웹에서 기사들을 크롤링하여 화면에 보여주고, 클릭 시 해당 기사로 연결
+- 기능 : 구글 뉴스 웹페이지 크롤링 후 조회
+- 기술 : TikXml, Jsoup, Glide, Lottie, Retrofit
+
+
+### 10. Chat
+- 사용자간에 채팅 기능
+- 기능 : 로그인 기능, 회원가입 기능, 사용자간에 채팅 기능, 푸시 메시지
+- 기술 : Firebase (Real-time database, Authentication, Messaging), OkHttp, RecyclerView, ListAdapter
+<div width="100%">
+  <img src="https://user-images.githubusercontent.com/72954404/234737184-b45501ab-6081-4d43-8d47-35c840788559.png" width="200px" align="left"/>
+  <img src="https://user-images.githubusercontent.com/72954404/234737205-813e1989-ca09-443d-8948-bca1627a15f0.png" width="200px" align="center"/>
+  <img src="https://user-images.githubusercontent.com/72954404/234737223-ca974c9c-ccb6-4846-9e7f-9de0fa8ce2eb.png" width="200px" align="center"/>
+  <img src="https://user-images.githubusercontent.com/72954404/234737241-e2090b7d-6a74-4375-b410-89ac14cd60fc.png" width="200px" align="center"/>
+ </div>
+ 
