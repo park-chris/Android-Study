@@ -92,14 +92,25 @@
   <img src="https://user-images.githubusercontent.com/72954404/234737241-e2090b7d-6a74-4375-b410-89ac14cd60fc.png" width="200px" align="center"/>
  </div>
  
-
-
-### 10. Weather
+ 
+ 
+ ### 11. Weather
 - 마지막 위치 기록으로 현재 날씨 및 온도 조회
 - 기능 : 위치 조회, 위젯 생성 및 업데이트, 공공 API를 이용한 위치 기반 날씨 조회
 - 기술 : Service, Foreground Service, Notification, Permission, Retrofit, WidgetProvider, RemoteView
 <div width="100%">
   <img src="https://user-images.githubusercontent.com/72954404/235061483-70d0a3bf-ab21-4713-87e8-2cbf53b4f675.png" width="200px" align="left"/>
   <img src="https://user-images.githubusercontent.com/72954404/235061624-6e41c4b7-b71a-4557-8088-0ea29b70fe07.png" width="200px"  align="center"/>
+ </div>
+ 
+ 
+ 
+ ### 12. GoodRestaurant
+- NAVER API를 이용한 맛집 검색
+- 기능 : 맛집 검색 기능
+- 기술 : NAVER API (검색, map), Retrofit, RecyclerView
+<div width="100%">
+  <img src="https://user-images.githubusercontent.com/72954404/235103460-cd4a5f4b-12bd-488f-b4dd-014d96f9601b.png" width="200px" align="left"/>
+  <img src="https://user-images.githubusercontent.com/72954404/235103476-933d9759-bb07-4903-b413-fddc5acd2355.png" width="200px"  align="center"/>
  </div>
  
