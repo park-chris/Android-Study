@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="naver_client_id">{네이버 클라이언트 id}</string>
+    <string name="naver_search_client_id">{네이버 검색 API 클라이언트 id}</string>
+    <string name="naver_search_client_secret">{네이버 검색 API 클라이언트 시크릿}</string>
+</resources>
