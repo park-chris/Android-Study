@@ -92,3 +92,16 @@
   <img src="https://user-images.githubusercontent.com/72954404/234737241-e2090b7d-6a74-4375-b410-89ac14cd60fc.png" width="200px" align="center"/>
  </div>
  
+
+
+### 10. Weather
+- 마지막 위치 기록으로 현재 날씨 및 온도 조회
+- 기능 : 위치 조회, 위젯 생성 및 업데이트, 공공 API를 이용한 위치 기반 날씨 조회
+- 기술 : Service, Foreground Service, Notification, Permission, Retrofit, WidgetProvider, RemoteView
+<div width="100%">
+  <img src="https://user-images.githubusercontent.com/72954404/235061483-70d0a3bf-ab21-4713-87e8-2cbf53b4f675.png" width="200px" align="left"/>
+  <img src="https://user-images.githubusercontent.com/72954404/235061488-dfcce493-b985-4418-aa7a-ae3e5fdec484.png" width="200px" align="center"/>
+ </div>
+ 
+ 
+ 
