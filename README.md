@@ -100,8 +100,6 @@
 - 기술 : Service, Foreground Service, Notification, Permission, Retrofit, WidgetProvider, RemoteView
 <div width="100%">
   <img src="https://user-images.githubusercontent.com/72954404/235061483-70d0a3bf-ab21-4713-87e8-2cbf53b4f675.png" width="200px" align="left"/>
-  <img src="https://user-images.githubusercontent.com/72954404/235061488-dfcce493-b985-4418-aa7a-ae3e5fdec484.png" width="200px" align="center"/>
+  <img src="https://user-images.githubusercontent.com/72954404/235061624-6e41c4b7-b71a-4557-8088-0ea29b70fe07.png" width="200px"  align="center"/>
  </div>
- 
- 
  
