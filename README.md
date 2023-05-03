@@ -116,3 +116,21 @@
  </div>
  
 
+ 
+ ### 13. ShareLocation
+- 사용자의 지속적인 위치르 업데이트하며, 데이터베이스에 등록된 모든 사용자들의 위치를 지동 나타냄
+- 기능 : 위치 조회 및 지도 마커 업데이트, 특정 마커 트래킹, 카카오 계정을 로그인
+- 기술 : BottomSheet, Permission, Firebase (Real-time Database, Authentication), Google API ( Maps ), Kakao API ( Login )
+<div width="100%">
+  <img src="https://user-images.githubusercontent.com/72954404/235841128-3f456707-4481-4a33-a5a6-052bdcb43951.png" width="200px" align="left"/>
+  <img src="https://user-images.githubusercontent.com/72954404/235841141-0b1d1fde-2fa8-4bd5-ab77-ed90ea17a4e6.png" width="200px"  align="center"/>
+ </div>
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
