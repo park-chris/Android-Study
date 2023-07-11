@@ -131,6 +131,9 @@
  
 
 
- 
+  ### 14. FaceRecognition
+- 얼굴을 인식하고 그려주는 앱
+- 기능 : 카메라 프리뷰 활성화, 얼굴 인식 모듈 설치, 얼굴 인식 범위 Mask 싀우기, 간단한 요구사항을 통한 상호작용, 인식 진행 사항 출력
+- 기술 : Module, CameraXPreview, Permission, Google Vision, CustomView - Paint, Bezier Curves, PathMeasure
  
  
