@@ -139,4 +139,9 @@
 - 기능 : 앱 시작 시 카드 애니메이션, 카드 상세정보
 - 기술 : DataBinding, MotionLayout, RecyclerView, ListAdapter (androidx), ViewHolder
 
- 
+
+### 16. pickImage
+- 버튼을 클릭하면 다양한 랜덤 이미지를 보여줌
+- 기능 : 랜덤 이미지 생성
+- 기술 : Unsplash API, MVC, MVP, MVVP, MVI, Coroutine, Coil, ViewModel, Livedatam gson, rxjava, rxandroid, rxkotlin, Retrofit, DataBinding
+
