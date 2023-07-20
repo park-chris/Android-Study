@@ -1,4 +1,4 @@
-# FastCampus
+# Android Study
 패스트캠퍼스 안드로이드 강의 코드 및 설명 정리 
 
 <br>
