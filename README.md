@@ -149,5 +149,11 @@
 ### 16. pickImage
 - 버튼을 클릭하면 다양한 랜덤 이미지를 보여줌
 - 기능 : 랜덤 이미지 생성
-- 기술 : Unsplash API, MVC, MVP, MVVP, MVI, Coroutine, Coil, ViewModel, Livedatam gson, rxjava, rxandroid, rxkotlin, Retrofit, DataBinding
+- 기술 : Unsplash API, MVC, MVP, MVVP, MVI, Coroutine, Coil, ViewModel, Livedata, gson, rxjava, rxandroid, rxkotlin, Retrofit, DataBinding
 
+<br><br>
+
+### 17. mediaSearch
+- 이미지 및 비디오 검색, 원하는 미디어 즐겨찾기 기능
+- 기능 : 이미지 및 비디오 검색, 원하는 미디어 즐겨찾기 기능
+- 기술 : Mockito, Coil, ViewModel, Livedata, gson, rxjava, rxandroid, rxkotlin, Retrofit, DataBinding
