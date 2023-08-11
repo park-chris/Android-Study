@@ -157,3 +157,16 @@
 - 이미지 및 비디오 검색, 원하는 미디어 즐겨찾기 기능
 - 기능 : 이미지 및 비디오 검색, 원하는 미디어 즐겨찾기 기능
 - 기술 : Mockito, Coil, ViewModel, Livedata, gson, rxjava, rxandroid, rxkotlin, Retrofit, DataBinding
+
+
+### 18. shopping
+- 복잡한 리스트 구현
+- 기능 : ad, 상품 등 다양한 뷰의 리스트를 구현
+- 기술 :
+
+<div width="100%">
+  <img src="https://github.com/park-chris/Android-Study/assets/72954404/b9960ac9-85a2-461b-96f2-c368a6d27076" width="200px" align="left"/>
+ </div>
+
+
+
