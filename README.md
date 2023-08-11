@@ -162,7 +162,7 @@
 ### 18. shopping
 - 복잡한 리스트 구현
 - 기능 : ad, 상품 등 다양한 뷰의 리스트를 구현
-- 기술 :
+- 기술 : MVVM, Hilt, Coroutine, Flow, Paging3, JsonDeserializer
 
 <div width="100%">
   <img src="https://github.com/park-chris/Android-Study/assets/72954404/b9960ac9-85a2-461b-96f2-c368a6d27076" width="200px" align="left"/>
